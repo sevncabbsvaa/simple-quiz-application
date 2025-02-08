@@ -1,0 +1,13 @@
+.none {
+    display: none;
+}
+li {
+    list-style-type: none;
+}
+
+.score {
+    margin-left: 40px;
+}
+.success {
+    margin-top: 10px;
+}
